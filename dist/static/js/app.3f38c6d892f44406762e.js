@@ -1,0 +1,2 @@
+webpackJsonp([1],{NHnr:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0}),new(t("XwMK").a)({el:"#app",template:"<div>UI-init</div>"})}},["NHnr"]);
+//# sourceMappingURL=app.3f38c6d892f44406762e.js.map
